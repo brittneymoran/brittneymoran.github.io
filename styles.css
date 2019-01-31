@@ -1,0 +1,14 @@
+body{ background: deepskyblue;
+    color: black;
+    font-size: 14pt; }
+
+h1{color: darkblue;
+font-size: 30pt;
+font-family: "Comic Sans MS";}
+
+
+p{color: white;
+font-size: 16pt;
+font-family: "Comic Sans MS";}
+
+nav a { display: block; }
